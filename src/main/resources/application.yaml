@@ -1,0 +1,5 @@
+spring:
+  application:
+    name: MS-SPRING-BOOT4X-1002
+  server:
+    port: 1002
